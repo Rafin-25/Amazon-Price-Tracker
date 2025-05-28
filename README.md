@@ -44,6 +44,16 @@ iphone 1000
 ```bash
 git clone https://github.com/Rafin-25/Amazon-Price-Tracker.git
 cd Amazon-Price-Tracker
+```
+## Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## Set Up Environment Variable
+Create a .env file with your Telegram bot token:
+BOT_TOKEN=your_telegram_bot_token
+Get your bot token from @BotFather on Telegram.
 
 
 
