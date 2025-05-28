@@ -23,8 +23,7 @@ A simple Telegram bot that lets users search for Amazon products by keyword and 
 
 ## 📸 Demo
 
-![Demo Screenshot](https://github.com/Rafin-25/Amazon-Price-Tracker/assets/demo-screenshot.png) *(Add screenshot if available)*
-
+(https://github.com/Rafin-25/Amazon-Price-Tracker/tree/main/assets/demo-screenshot.png) 
 ---
 
 ## 💡 Usage
